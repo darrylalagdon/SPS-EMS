@@ -1,8 +1,8 @@
 #------------------------------------
 
--Project Title: EMS (Equipment Manager and Sale)
--System Type: Inventory System
--Author: Darryl B. Alagdon
++Project Title: EMS (Equipment Manager and Sale)
++System Type: Inventory System
++   Author: Darryl B. Alagdon
 
 #------------------------------------
 
